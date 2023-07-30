@@ -4,16 +4,6 @@
 
 #  Student's Name: Natalie Nguyen
 
-#  Student's UT EID: ntn687
- 
-#  Partner's Name: Ethan Harris
-
-#  Partner's UT EID: ejh2947
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 52038
-
 #  Date Created: 24 January, 2023
 
 #  Date Last Modified: 25 January, 2023
